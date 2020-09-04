@@ -24,7 +24,7 @@ public class KaprekarUtils {
 	 */
 	public static boolean isKaprekar(int n) {
 		
-		if(n < 1); {
+		if(n < 1) {
 			return false;
 		} 
 		
